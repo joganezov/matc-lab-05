@@ -55,3 +55,7 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
+group :assets do
+  gem 'compass-rails'
+end
+
